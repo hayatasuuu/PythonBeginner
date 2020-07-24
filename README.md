@@ -1,2 +1,2 @@
 # PythonBeginner
-A Notebooks for Python beginner.
+The Notebooks for Python beginner.
